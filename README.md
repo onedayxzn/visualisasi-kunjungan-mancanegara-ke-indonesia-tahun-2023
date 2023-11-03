@@ -18,33 +18,6 @@ Hasil Analisis
 
 ### Negara yang tidak pernah mengunjungi indonesia
 
-1 British Indian Ocean Teritory
-2 Tibet
-3 Hellenic
-4 Scotlandia
-5 Volta Atas
-6 Wales
-7 Siberia
-8 Yugoslavia
-9 Falkland Island
-10 Guiana
-11 Alaska
-12 Bermuda
-13 Guadelope
-14 Martinique
-15 St. Christopher
-16 Cooks Islands
-17 Guam
-18 Niue
-19 Polynesia
-20 Samoa Barat
-21 Walis & Futuna
-22 Burkinabe
-23 Cabinda
-24 Maseru
-25 Sahara
-26 Zaire
-
 | No  |            Negara             |
 | :-- | :---------------------------: |
 | 1   | British Indian Ocean Teritory |
