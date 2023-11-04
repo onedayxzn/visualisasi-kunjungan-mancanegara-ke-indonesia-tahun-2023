@@ -46,3 +46,11 @@ Hasil Analisis
 | 24  |            Maseru             |
 | 25  |            Sahara             |
 | 26  |             Zaire             |
+
+## Kesimpulan
+
+Wisatawan dari Negara Malaysia merupakan wisatawan yang paling banyak mengunjungi indonesia, sedangkan wisatawan dari negara Puertorico merupakan wisatawan yang paling sedikit mengunjungi indonesia yaitu hanya 1 orang selama tahun 2023 hingga bulan agutus.
+
+Dari grafik jumlah kunjungan wisatawan mancanegara per bulan, bulan yang paling banyak dikunjungi oleh wisatawan mancanegara adalah bulan agustus, sedangkan bulan yang paling sedikit dikunjungi oleh wisatawan mancanegara adalah bulan februari.
+
+Kemudian terdapat 26 negara yang tidak pernah mengunjungi indonesia selama tahun 2023 hingga bulan agustus, hal ini bisa disebabkan karena negara tersebut tidak memiliki hubungan diplomatik dengan indonesia atau masyarakat dari negara tersebut tidak mengetahui tentang indonesia. Maka dari itu diperlukan promosi yang lebih gencar lagi agar wisatawan mancanegara lebih banyak yang mengunjungi indonesia.
